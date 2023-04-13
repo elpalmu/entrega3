@@ -1,2 +1,0 @@
-# Tercera entrega
-**trabajo terminado**
